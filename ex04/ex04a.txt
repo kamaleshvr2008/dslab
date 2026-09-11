@@ -1,0 +1,47 @@
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex04$ gcc ex04a.c
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex04$ ./a.out
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 10
+Element pushed: 10
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 20
+Element pushed: 20
+Stack Operations Menu
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element to push: 30
+Element pushed: 30
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 30->20->10->NULL
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+Popped element: 30
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements: 20->10->NULL

@@ -1,0 +1,67 @@
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex05$ gcc ex05.c
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex05$ ./a.out
+
+
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 1
+
+Enter the number of elements: 7
+Enter The value: 12
+
+Enter The value: 35
+
+Enter The value: 76
+
+Enter The value: 13
+
+Enter The value: 67
+
+Enter The value: 24
+
+Enter The value: 64
+
+
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 2
+
+The Preorder display : 12 35 13 24 76 67 64 
+The Inorder display : 12 13 24 35 64 67 76 
+The Postorder display : 24 13 64 67 76 35 12 
+
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 3
+
+Enter Element to be searched: 64
+
+Key element is present in BST
+
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 3
+
+Enter Element to be searched: 1
+
+Key element is not found in the BST
+
+~~~~BST MENU~~~~
+1. Create a BST
+2. Display
+3. Search
+4. Exit
+Enter your choice: 4
+

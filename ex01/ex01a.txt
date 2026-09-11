@@ -1,0 +1,113 @@
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1
+enter the number of elements: 5
+enter 5 elements: 1 2 3 4 5
+Array created successfully.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 2
+enter element to insert:10
+enter position to insert (0 to 5): 2
+Element inserted successfully.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 5
+Array elements: 1210345
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1 2 10 3 4 5
+enter the number of elements: enter 2 elements: Array created successfully.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: enter position to delete (0 to 1): Error: Invalid position.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 3
+enter element to search: 10
+element not found in thre array
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 4
+enter position to delete (0 to 1): 2
+Error: Invalid position.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 5
+Array elements: 103
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 1 2 3 4 5
+enter the number of elements: enter 2 elements: Array created successfully.
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: Array elements: 34
+
+Array operation Menu:
+1. Create Array
+2. insert Element
+3. Search Element
+4. Delete Element
+5. Display Array
+6. Exit
+Enter your choice: 6
+

@@ -1,0 +1,7 @@
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex05$ gcc ex05.c
+aidslab116@aidslab116-desktop:~/Desktop/dslab421125106055/ex05$ ./a.out
+preorder traversal og the constructed AVL tree is 
+9 5 -1 6 10 11 
+
+Preorder traversal after deletion og 10 
+10 5 -1 6 11

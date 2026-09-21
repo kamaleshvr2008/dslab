@@ -1,0 +1,51 @@
+Output :
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element tp push:10
+Element pushed:10
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 1
+Enter element tp push:20
+Element pushed:20
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements:  20  10 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 2
+
+Popped element: 20
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 3
+Stack elements:  10 
+
+Stack Operations Menu:
+1. Push
+2. Pop
+3. Display
+4. Exit
+Enter your choice: 4

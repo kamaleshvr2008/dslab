@@ -1,0 +1,75 @@
+Output :
+
+Enter the size of the queue: 5
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the element to insert: 87
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the element to insert: 3
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 1
+
+Enter the element to insert: 65
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 3
+
+Elements in the heap: 3 87 65 
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 2
+
+The deleted element is 3
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 3
+
+Elements in the heap: 65 87 
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 3
+
+Elements in the heap: 65 87 
+
+----- MENU -----
+1. Insert
+2. Delete Minimum
+3. Display
+4. Exit
+Enter your choice: 4
+
+Exiting...

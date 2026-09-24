@@ -1,0 +1,9 @@
+Output :
+
+--Linear search--
+Enter the element to search: 45
+Element 45 found at position 2 (index 1).
+
+-- Linear Search --
+Enter the element to search: 11
+Element 11 not found in the array.
